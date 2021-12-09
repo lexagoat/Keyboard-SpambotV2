@@ -1,0 +1,13 @@
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\bin\Debug\SpamBot V2.exe.config
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\bin\Debug\SpamBot V2.exe
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\bin\Debug\SpamBot V2.pdb
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\bin\Debug\SpamBot V2.xml
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.vbproj.AssemblyReference.cache
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot_V2.About.resources
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot_V2.Form1.resources
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot_V2.Resources.resources
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.vbproj.GenerateResource.cache
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.vbproj.CoreCompileInputs.cache
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.exe
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.xml
+C:\Users\onurs\Desktop\project\SpamBot V2\SpamBot V2\obj\Debug\SpamBot V2.pdb
